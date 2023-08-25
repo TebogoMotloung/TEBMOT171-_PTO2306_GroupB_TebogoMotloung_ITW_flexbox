@@ -1,0 +1,18 @@
+ul {
+    list-style: none;
+    width: 75vw;
+
+  display:flex;
+  flex-direction:row;
+align-items:normal;
+
+}
+li {
+    padding: 30px;
+    margin: 30px;
+    margin: 10%;
+    background-color: rgb(245, 173, 41);
+
+    /* add solution here.. */
+text-align: left;
+}
